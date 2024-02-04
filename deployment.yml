@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: vithal99/proj3
+        image: vithal99/proj6
         ports:
         - containerPort: 80
